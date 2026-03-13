@@ -1,5 +1,6 @@
 # 企鹅航班 - HarmonyOS航班管理应用
-
+此链接为视频演示效果
+https://www.bilibili.com/video/BV1mRcDzrEsy/?spm_id_from=333.1387.homepage.video_card.click&vd_source=417febb489a59b7d9afcfa4c00f4d71c
 本项目为基于HarmonyOS（鸿蒙系统）自主研发的航班管理App——企鹅航班。支持用户注册登录、航班信息检索、航班预定、订单管理及航班取消等完整功能流程，注重用户交互体验与系统稳定性设计。
 
 ## 主要特性
